@@ -51,6 +51,5 @@ public class OnlineShoppingApp {
 
         System.out.println("Total cost: $" + cart.calculateTotal());
 
-
     }
 }
